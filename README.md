@@ -22,7 +22,7 @@ To explore the features of **Blazor Server** and/or **Blazor WebAssembly**, impl
 - Blazor (Server / WebAssembly)
 - C#
 - HTML & CSS
-- Entity Framework Core (optional, if a database is used)
+- Dapper
 
 ## Project Status
 
